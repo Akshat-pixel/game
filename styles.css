@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+    background-color: rgb(255, 254, 254);
+    font-family: 'Comic Neue', cursive;
+    color: rgb(179, 8, 59);
+}
+.topHeading
+{
+    margin: 30px auto 50px;
+}
+.head
+{
+    font-size: 5rem;
+    display: inline-block;
+}
+.ph1
+{
+    padding-bottom: 15px;
+}
+.ph2
+{
+    padding-bottom: 15px;
+}
+.footer
+{
+    padding-top: 100px;
+    font-size: 0.75rem;
+}
+
+
